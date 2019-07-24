@@ -27,7 +27,7 @@ server.use(adminRoutes);
 server.use(donationRoutes);
 server.use(donorRoutes);
 
-/* 
+/*
 [GET] no params or body required
 Params: none,
 Body: none,
